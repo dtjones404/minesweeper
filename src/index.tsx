@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <div className="container border-2 border-red-500 mx-auto">
+    <div className="container mx-auto bg-neutral-50">
       <App />
     </div>
   </React.StrictMode>
